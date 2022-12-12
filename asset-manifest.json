@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mkihato/progbar/static/css/main.cfdaa942.css",
+    "main.js": "/mkihato/progbar/static/js/main.b3c132c9.js",
+    "static/js/787.5d793eaa.chunk.js": "/mkihato/progbar/static/js/787.5d793eaa.chunk.js",
+    "static/media/logo.svg": "/mkihato/progbar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mkihato/progbar/index.html",
+    "main.cfdaa942.css.map": "/mkihato/progbar/static/css/main.cfdaa942.css.map",
+    "main.b3c132c9.js.map": "/mkihato/progbar/static/js/main.b3c132c9.js.map",
+    "787.5d793eaa.chunk.js.map": "/mkihato/progbar/static/js/787.5d793eaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfdaa942.css",
+    "static/js/main.b3c132c9.js"
+  ]
+}
