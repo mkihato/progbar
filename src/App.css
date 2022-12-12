@@ -1,0 +1,41 @@
+:root {
+  -color--1: #12c2e9;
+  -color--2: #c471ed;
+  -color--3: #f64f59;
+}
+
+/* .App {
+  text-align: center;
+} */
+svg {
+  width: 30vw;
+}
+.progressinput {
+  width: 30vw;
+  margin-top: 30px;
+  height: 10px;
+  -webkit-appearance: none;
+  background-image: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+  border-radius: 5px;
+}
+.progressinput::-webkit-slider-thumb {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: rgb(39, 38, 38);
+  cursor: pointer;
+}
+.circle-background {
+  fill: none;
+  stroke: #ddd;
+}
+.circle-progress {
+  fill: none;
+  /* stroke: #12c2e9; */
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.circle-text {
+  font-size: 3rem;
+  font-weight: bold;
+}
